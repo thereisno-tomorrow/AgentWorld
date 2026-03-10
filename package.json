@@ -1,7 +1,7 @@
 {
   "name": "agentworld",
   "version": "0.1.0",
-  "description": "Fallout Shelter-style cross-section UI for Claude Code vault sessions",
+  "description": "Desktop dashboard for watching Claude Code sessions across all your projects at once",
   "main": "./out/main/index.js",
   "scripts": {
     "format": "prettier --write .",
