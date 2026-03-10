@@ -4,7 +4,7 @@ A desktop dashboard for watching [Claude Code](https://docs.anthropic.com/en/doc
 
 Built for people who run 15 projects simultaneously and need to see all of them at a glance — without opening 15 terminals.
 
-https://github.com/thereisno-tomorrow/AgentWorld/issues/1#issue-4051311180
+![AgentWorld screenshot](https://github.com/user-attachments/assets/41049425-0699-4803-9604-f4fca88f0816)
 
 ## The Problem
 
