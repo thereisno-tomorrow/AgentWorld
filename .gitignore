@@ -1,0 +1,54 @@
+# Dependencies
+node_modules/
+
+# Build output
+out/
+dist/
+
+# Electron
+*.unpacked
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Personal / operational data
+ops/
+.claude/
+CLAUDE.md
+
+# Architecture & design docs (internal)
+architecture/
+context/
+research/
+
+# Scripts (vault hooks, not app code)
+scripts/
+
+# Assets (not part of the app)
+KayKit_*/
+kenney_*/
+asset-library/
+*.zip
+
+# 3D model assets (unused prototype assets)
+src/renderer/public/adventurers/
+src/renderer/public/dungeon/
+src/renderer/public/dungeon-remastered/
+src/renderer/public/space-base/
+
+# Test scratch files
+test-main*.js
+nul
+
+# Windows shortcuts/scripts
+*.vbs
+*.ps1
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.tsbuildinfo
