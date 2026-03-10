@@ -4,6 +4,8 @@ A desktop dashboard for watching [Claude Code](https://docs.anthropic.com/en/doc
 
 Built for people who run 15 projects simultaneously and need to see all of them at a glance — without opening 15 terminals.
 
+https://github.com/thereisno-tomorrow/AgentWorld/issues/1#issue-4051311180
+
 ## The Problem
 
 Claude Code is a terminal tool. Each session lives in its own shell, its own VS Code window, its own mental thread. When you're running agents across multiple projects, the cognitive cost isn't the work — it's tracking which agents are alive, which are waiting for input, and which finished an hour ago while you were focused elsewhere.
